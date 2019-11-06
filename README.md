@@ -1,7 +1,8 @@
 # Labspy02
 sekarang kita akan membahas bagaimana mencari nilai terbesar dari 3 bilangan yang dimasukan.
 Diagram aliran data :
-(Flowchart)
+![daftar](https://github.com/putrinabila2301/Labspy02/blob/master/Untitled%20Diagram.png)
+
 1. Input Program
 
 ![daftar](https://github.com/putrinabila2301/Labspy02/blob/master/gambar%203/pik1.png)
